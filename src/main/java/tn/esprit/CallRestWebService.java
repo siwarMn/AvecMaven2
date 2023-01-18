@@ -18,6 +18,15 @@ import org.json.JSONObject;
  * 
  *
  */
+/**
+ * @author Walid-YAICH
+ * 
+ * URL utiles :
+ * http://theoryapp.com/parse-json-in-java/
+ * https://jsonformatter.curiousconcept.com/
+ * 
+ *
+ */
 
 public class CallRestWebService {
 
